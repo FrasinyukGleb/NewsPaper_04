@@ -1,1 +1,1 @@
-# NewsPaper_04
+Third update of NewsPaper project
